@@ -1,0 +1,6 @@
+*.eml
+attachments/
+samples/private/
+.DS_Store
+Thumbs.db
+desktop.ini
